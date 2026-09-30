@@ -1,0 +1,1 @@
+export const DB_NAME="tshirt_store_db"
